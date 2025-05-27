@@ -12,4 +12,4 @@ You're all set, now you can open scripts in Solis in the inspector:
 
 You can also open the entire project folder like this:
 
-![Screenshot 2025-05-26 232409](https://github.com/user-attachments/assets/b85f78eb-4bb0-4ab8-9c7a-0b00be05aac4)
+![Screenshot 2025-05-26 233146](https://github.com/user-attachments/assets/76db2cba-3ce6-4505-a2a4-43572acf25c9)
