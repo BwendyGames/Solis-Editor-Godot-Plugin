@@ -48,6 +48,8 @@ You can also open the entire Godot project folder with Solis from the Tools menu
 
 ## **Full Integration: Open Scripts in Solis from Script Icons**
 
+![Solis Editor UI](https://github.com/user-attachments/assets/a5348123-1c93-4ddf-9cd8-8f492d109cf0)
+
 To make scripts open in Solis when you click the script icon or double-click a script:
 
 1. Go to `Editor > Editor Settings > Text Editor > External`
@@ -62,7 +64,6 @@ Now, clicking the script icon in the scene tree or script list will open it dire
 ## Other Tips
 
 - You can set Solis as the **default editor for `.gd`, `.py`, or other file types** on your operating system if you want scripts to open in Solis by default from the file browser.
-- ![Solis Editor UI](https://github.com/user-attachments/assets/a5348123-1c93-4ddf-9cd8-8f492d109cf0)
 
 - Solis Editor is still evolving—check for updates on the [GitHub Releases page](https://github.com/BwendyGames/Solis-Text-Editor/releases).
 
