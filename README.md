@@ -1,6 +1,6 @@
-Requires the [Solis text editor](https://github.com/BwendyGames/Solis-Text-Editor/releases)
+Requires the [Solis Text Editor](https://github.com/BwendyGames/Solis-Text-Editor/releases)
 
-Download the repo, put it in your Godot projects "addons", make your have it enabled in ```Project>Project Settings>Plugins```.
+Download the repo, put it in your Godot project's "addons", make sure you have it enabled in ```Project>Project Settings>Plugins```.
 
 Next set the filepath to the Solis text editor executable:
 
